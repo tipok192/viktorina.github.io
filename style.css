@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(253, 253, 253);
+}
+hr{
+    height: 3px;
+    background-color: black;
+}
+a{
+    font-size: 25px;
+}
